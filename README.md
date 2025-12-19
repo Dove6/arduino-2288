@@ -2,11 +2,11 @@
 
 W ramach [Warsztatowego Kalendarza Adwentowego](https://discord.com/channels/822931925618524240/909046389227536426/1450223045506629777) - wyzwania odbywającego się na [discordowym serwerze poświęconym serii "Przygody Reksia"](https://discord.gg/sc5psH2cvR) - postanowiłem odtworzyć z użyciem mikrokontrolera Arduino zabezpieczenie bramy portu kosmicznego z gry "Reksio i UFO".
 
-![oryginalna łamigłówka](media/original.mp4)
+https://github.com/user-attachments/assets/2c5230cf-48fb-45f4-8fdd-3b31e16b5779
 
 Działającą[^1] symulację możesz przetestować [tutaj](https://wokwi.com/projects/450800315035824129). Wideoprezentacja z fizycznej implementacji poniżej.
 
-![wideoprezentacja](media/video.mp4)
+https://github.com/user-attachments/assets/7436784d-481d-48ec-a082-9a64f00941d4
 
 ## Wymagane komponenty
 
